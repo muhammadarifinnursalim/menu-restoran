@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "gesiit-resto",
+    "gesiit": "gesiit-resto",
+    "gesit": "gesiit-resto"
+  }
+}
